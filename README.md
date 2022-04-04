@@ -17,16 +17,6 @@ During the school time I was kinda nerdy 🤓 and got involved in many research 
 # #findme
 
 <div class="findme">
-  <style>
-    .findme {
-      display: flex;
-      flex-wrap: wrap;
-    }
-    .findme a {
-      padding: 0 6px 6px 0;
-    }
-  </style>
-
   <a href="https://www.linkedin.com/in/hdeiro" target="blank">
     <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Hugo%20Deiró-563D7C?style=circle-square&logo=Linkedin&logoColor=white"/>
   </a>
@@ -46,18 +36,7 @@ During the school time I was kinda nerdy 🤓 and got involved in many research 
 
 # #Stats
 
-<div class="stats">
-  <style>
-    .stats {
-      display: flex; 
-      flex-wrap: wrap; 
-      align-items: start;
-      justify-content: flex-start;
-    }
-    .stats img:first-of-type {
-      margin: 0 16px 16px 0;
-    }
-  </style>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=hdeiro&show_icons=true&theme=material-palenight"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdeiro&langs_count=5&hide=Pascal&layout=compact&theme=material-palenight"> 
 </div>
