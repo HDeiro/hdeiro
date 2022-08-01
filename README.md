@@ -34,7 +34,7 @@ During the school time I was kinda nerdy 🤓 and got involved in many research 
   </a>
 </div>
 
-# #Stats
+# #stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=hdeiro&show_icons=true&theme=material-palenight"> 
