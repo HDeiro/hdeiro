@@ -6,7 +6,7 @@ For fun, I like to 📺 Anime, TV Shows and some movies. Also like to 🎮 some 
 
 # #work
 
-I'm currently 🧑‍💻 at [MURAL](https://mural.co/) as a Senior Software Engineer on the Developer Extensions team doing a lot of cool stuff that I probably can't talk about!
+I'm currently 🧑‍💻 at [Uber](https://uber.com/) as a Software Engineer L4 on the Uber Eats project.
 
 # #school
 
