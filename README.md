@@ -34,9 +34,3 @@ During the school time I was kinda nerdy 🤓 and got involved in many research 
   </a>
 </div>
 
-# #stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hdeiro&show_icons=true&theme=material-palenight"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdeiro&langs_count=5&hide=Pascal&layout=compact&theme=material-palenight"> 
-</div>
